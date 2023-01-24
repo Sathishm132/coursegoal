@@ -24,7 +24,7 @@
 }
 .form-control.invalid input{
   border-color: red;
-  background-color: rgba(224, 136, 136, 0.527);
+  background-color: rgba(147, 4, 4, 0.527);
 
 }
 .form-control.invalid label{
